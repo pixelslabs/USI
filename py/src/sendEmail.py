@@ -23,4 +23,4 @@ def send_email(subject, body, to_email):
         print("Error sending email:", e)
 
 # Example Usage
-send_email("Test Subject", "This is a test email", "sknadeem@gmail.com")
+send_email("Test Subject", "This is a test email",  TO_EMAIL)
